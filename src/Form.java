@@ -74,7 +74,7 @@ public class Form extends JFrame {
                 try {
                     ProcessBuilder processBuilder = new ProcessBuilder(
                             "python",
-                            "C:\\PROGRAMMING-PC\\WIP\\CAMINHO PARA O SCRIPT\\ScriptConexão.py",
+                            "caminhoParaOscriptColocarRelativoOuCompelto/ScriptConexão.py",
                             nome,
                             valor,
                             data);
